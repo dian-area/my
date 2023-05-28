@@ -1,4 +1,4 @@
-# website-kabayan-group
+# DIAN MY SELF PROJECT
 
 ## Getting started
 
@@ -13,14 +13,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/senna-application-software/website-kabayan-group.git
+git remote add origin 
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
--   [ ] [Set up project integrations](https://gitlab.com/senna-application-software/website-kabayan-group/-/settings/integrations)
+-   [ ] [Set up project integrations]()
 
 ## Collaborate with your team
 
@@ -70,15 +70,12 @@ Depending on what you are making, it can be a good idea to include screenshots o
 
 Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
 
-Kabayan ID (Laravel)
-
 1. Remote gitlab
-2. env (di zip ENV/KABAYAN GROUP)
-4. PHP versi 7.4 - 8
-5. webserver, klo saya di local pakai xampp dengan config default/bawaan -> apache
-6. tidak perlu node js
-3. Key generate
-4. composer update
+2. PHP versi 7.4 - 8
+3. webserver, klo saya di local pakai xampp dengan config default/bawaan -> apache
+4. tidak perlu node js
+5. Key generate
+6. composer update
 
 ## Usage
 
